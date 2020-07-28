@@ -1,0 +1,47 @@
+body {
+  background-color: #222831;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Krona One", sans-serif;
+  font-size: 3rem;
+  color: #eeeeee;
+}
+
+.icon {
+  width: 3%;
+}
+.output {
+  color: #eeeeee;
+  margin-top: 80px;
+}
+
+.calculator {
+  margin: auto;
+}
+.key {
+  width: 80px;
+  height: 80px;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.key:hover {
+  background-color: #ff5c33;
+}
+.equal {
+  background-color: #4f8a8b;
+}
+.del {
+  background-color: #ff9933;
+}
+.multi,
+.divide,
+.sum,
+.min,
+.equal,
+.perc {
+  font-size: 1.5rem;
+}
